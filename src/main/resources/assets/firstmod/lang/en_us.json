@@ -1,4 +1,6 @@
 {
   "item.firstmod.swag": "Swag",
-  "item.firstmod.mega_swag": "Mega Swag"
+  "item.firstmod.mega_swag": "Mega Swag",
+
+  "itemgroup.swag": "Swag Tab"
 }
