@@ -2,6 +2,7 @@ package net.krischan.firstmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.krischan.firstmod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -12,6 +13,7 @@ public class FirstMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
 
 	}
 }
